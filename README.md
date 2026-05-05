@@ -18,10 +18,10 @@ Desarrolladora de software y emprendedora, enfocada en crear soluciones empresar
 <h2 align="left">Technologies</h2> 
 
 ### Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,py,php,sass,tailwind,bootstrap,angular,nextjs,npm,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,py,php,swift,md,sass,tailwind,bootstrap,angular,react,nextjs,nodejs,nestjs)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,github,mysql,postgres,postman,vscode,atom,anaconda,androidstudio,discord,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,npm,docker,git,gitlab,github,mysql,postgres,mongodb,postman,vscode,androidstudio,anaconda,notion,discord)](https://skillicons.dev)
 
 
 <!--
