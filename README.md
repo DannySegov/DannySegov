@@ -9,41 +9,19 @@ Desarrolladora de software y emprendedora, enfocada en crear soluciones empresar
 
 <h2 align="left">Stars</h2> 
 <h2 align="left">📊 GitHub Stats</h2>
-
 <div align="center">
-  <!-- GitHub Stats - IZQUIERDA -->
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=dannysegov&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <!-- GitHub Streak - DERECHA -->
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=dannysegov&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannysegov&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=dannysegov&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <br>
-<!-- Contribution Graph - ABAJO -->
 <div align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dannysegov&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysegov&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%" />
 </div>
 <br>
-
-<!-- Top Languages -->
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysegov&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysegov&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 
 <h2 align="left">Technologies</h2> 
 
