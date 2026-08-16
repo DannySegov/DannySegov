@@ -17,10 +17,6 @@ Desarrolladora de software y emprendedora, enfocada en crear soluciones empresar
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysegov&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%" />
 </div>
 <br>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannysegov&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 
 <h2 align="left">Technologies</h2> 
 
