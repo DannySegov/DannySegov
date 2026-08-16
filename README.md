@@ -10,11 +10,6 @@ Desarrolladora de software y emprendedora, enfocada en crear soluciones empresar
 <h2 align="left">Stars</h2> 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannysegov&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=dannysegov&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannysegov&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%" />
 </div>
 <br>
